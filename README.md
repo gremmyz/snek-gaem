@@ -3,7 +3,11 @@
 </div>
 
 <div id="body">
-  <h2>we all know the <i>snake game</i>. gobble up apples, grow in size and be careful not to bite your own tail!</h2>
+  <h3>we all know the <i>snake game</i>. gobble up apples, grow in size and be careful not to bite your own tail!</h3>
+</div>
+
+<div id="gamegif" align="center">
+  <img src="https://raw.githubusercontent.com/gremmyz/snek-gaem/main/assets/snek.gif" alt="SnakeGamePreview"  width="50%">
 </div>
 
 - disclaimer: this is just a fun personal side project to recap on my java skills before the next semester. 
