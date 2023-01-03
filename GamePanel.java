@@ -58,7 +58,7 @@ public class GamePanel extends JPanel implements ActionListener{
                     graphics.fillRect(xSnake[i], ySnake[i], objectSize, objectSize);
                 }
             }
-            graphics.setColor(Color.red);
+            graphics.setColor(Color.white);
             graphics.setFont( new Font("Comic Sans MS",Font.BOLD, 40));
             FontMetrics metrics = getFontMetrics(graphics.getFont());
             graphics.drawString("Score: "+applesEaten, (screenWidth - metrics.stringWidth("Score: "+applesEaten))/2, graphics.getFont().getSize());
