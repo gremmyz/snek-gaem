@@ -10,13 +10,16 @@
   <img src="https://raw.githubusercontent.com/gremmyz/snek-gaem/main/assets/snek.gif" alt="SnakeGamePreview"  width="50%">
 </div>
 
-- disclaimer: this is just a fun personal side project to recap on my java skills before the next semester. 
-- i do plan on adding more features e.g. 2 player mode, different difficulties when i have the time.
-
 <div id="rules">
   <h3>so how do i play?</h3>
  </div>
  
+ - download the jar file release [here](https://github.com/gremmyz/snek-gaem/releases/tag/JAR)
+ - run the jar file
  - controls are WASD
  - eat the apples to increase your score
  - avoid collision into the borders or into yourself
+ 
+ ---
+ - disclaimer: this is just a fun personal side project to recap on my java skills before the next semester. 
+ - i do plan on adding more features e.g. 2 player mode, different difficulties when i have the time.
